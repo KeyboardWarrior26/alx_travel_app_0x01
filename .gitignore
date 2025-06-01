@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SQLite database file
+db.sqlite3
+
+# Django migrations (usually committed, but uncomment if you want to ignore)
+# */migrations/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
+
