@@ -1,11 +1,16 @@
-# ALX Travel App 0x00
+# ALX Travel App 0x0# ALX Travel App 0x00
 
-This Django project manages Listings, Bookings, and Reviews. It also includes a management command to seed sample data.
+This Django project manages travel listings, bookings, and reviews using RESTful APIs.
 
-## Setup & Run
+## Features
 
-1. **Install dependencies**  
-   (activate your virtual environment first)
+- Create and manage travel listings
+- Book listings
+- Leave reviews
 
-   ```bash
-   pip install -r requirement.txt
+## Technologies
+
+- Python
+- Django
+- Django REST Framework
+
